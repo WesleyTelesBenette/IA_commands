@@ -1,0 +1,16 @@
+Crie uma documentação Swagger para todos os métodos do meu Controller, com essas estrutura (substituindo o conteúdo entre os '{}' por o que estiver pedindo):
+
+/// <summary>
+/// Retorna {objeto de retorno/tipo de retorno} {explicação básica da influência dos parêmetros da função, no processamento do retorno}.
+/// </summary>
+/// <param name="{nome do parâmetro}">
+/// {resumo objetivo, breve e levemente genérico, do que possívelmente é o parâmetro}.
+/// </param>
+/// {outros parâmetros, caso existam}
+/// <returns>
+/// Retorna um <see cref="IActionResult"/> com uma resposta HTTP:
+/// - Código {código de HTTP} ({código HTTP transcrito em texto}) {objeto de retorno, caso possua no corpo}.
+/// </returns>
+
+
+Após cada documentação, me retone meu método inteiro, com declaração e corpo, do exato jeito que te enviei.
